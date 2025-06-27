@@ -1,0 +1,69 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# SwiftPM
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# App data
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace/
+
+# SPM Xcode integrations
+.swiftpm/xcode/xcshareddata/WorkspaceSettings.xcsettings
+
+# General
+*.swp
+*.swo
+*~
+
+# Symbolicatecrash
+*.crash
+*.replay
+
+# Provisioning profiles
+*.mobileprovision
+
+# User-specific
+*.orig
+
+# Logs
+*.log
+
+# Preview assets
+*.xcassets/preview-content/
