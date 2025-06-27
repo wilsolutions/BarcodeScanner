@@ -12,7 +12,8 @@ BarcodeScanner is a SwiftUI-based app for scanning and validating barcodes using
 
 ## Screenshots
 
-<video src="barcodescanner.webm" controls width="600"></video>
+[Watch the demo video](barcodescanner.webm)
+
 
 ## Getting Started
 
